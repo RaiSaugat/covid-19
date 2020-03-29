@@ -1,0 +1,17 @@
+.search__control {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  margin: 3rem auto;
+  p {
+    font-size: 1.6rem;
+    width: max-content;
+    margin-right: 1rem;
+  }
+  input {
+    width: 400px;
+    border-radius: 4px;
+    font-weight: 500;
+    padding: 1rem 2rem;
+  }
+}
